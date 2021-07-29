@@ -1,4 +1,2 @@
 Hello Git
-Szia Kincso itt az új script
-Ismét valami új
-Hajajjj
+developer Script
