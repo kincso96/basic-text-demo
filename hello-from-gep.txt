@@ -1,2 +1,3 @@
 Hello Git
 developer Script
+Kincsi add new Script
