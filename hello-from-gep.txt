@@ -1,1 +1,2 @@
 Hello Git
+Szia Kincso itt az új script
