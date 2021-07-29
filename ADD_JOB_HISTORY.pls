@@ -1,4 +1,4 @@
-create or replace PROCEDURE add_job_history
+create or replace PROCEDURE add_job_history2
   (  p_emp_id          job_history.employee_id%type
    , p_start_date      job_history.start_date%type
    , p_end_date        job_history.end_date%type
